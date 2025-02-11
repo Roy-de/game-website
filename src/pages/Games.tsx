@@ -8,7 +8,7 @@ import {
 import { Input } from "@/components/ui/input";
 import { Separator } from "@/components/ui/separator";
 import React, {JSX} from "react";
-import {Apple, Facebook, FacebookIcon, Instagram, Play, Twitter} from "lucide-react";
+import {FacebookIcon, Instagram,Twitter} from "lucide-react";
 
 const footerLinks = {
     product: [

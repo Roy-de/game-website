@@ -149,7 +149,6 @@ export const BlogDetail = (): JSX.Element => {
                         <div className="grid grid-cols-4 gap-4 w-[1400px]">
                             {/* Logo and Social Section */}
                             <div className="flex flex-col gap-4">
-                                {/* eslint-disable-next-line @next/next/no-img-element */}
                                 <img src="https://c.animaapp.com/c8vOIei8/img/frame-2121450128.svg" alt="Logo" className="w-32" />
                                 <p className="text-[#fbf9ff] text-lg leading-relaxed font-extrabold">
                                     Open an account in minutes,
