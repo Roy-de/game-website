@@ -265,3 +265,5 @@ export const BlogDetail = (): JSX.Element => {
         </div>
     );
 };
+
+export default BlogDetail;

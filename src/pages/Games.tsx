@@ -314,3 +314,5 @@ export const Games = (): JSX.Element => {
         </div>
     );
 };
+
+export default Games;

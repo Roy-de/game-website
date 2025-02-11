@@ -226,3 +226,5 @@ export const MainPage = (): JSX.Element => {
         </div>
     );
 };
+
+export default MainPage;
